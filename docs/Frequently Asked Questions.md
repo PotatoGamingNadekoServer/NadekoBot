@@ -15,7 +15,7 @@
 
 ###Question 4: How do I get NadekoFlowers/Currency?
 ----
-**Answer:** You can get NadekoFlowers by picking them up after they have been generated with `>gc`, which you can then either plant (give away to a channel so that someone can pick it), or gamble with for potentinal profit with `$betflip`, `$betroll` and `$jr`
+**Answer:** You can get NadekoFlowers by adding a flower emoji to an event, which you can then either plant (give away to a channel so that someone can pick it), or gamble with for potentinal profit with `$betflip`, `$betroll` and `$slot`
 
 ###Question 5: I have an issue/bug/suggestion, where do I put it so it gets noticed?
 -----------
